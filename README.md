@@ -1,2 +1,2 @@
 # mhealth
-Pregnancy Notification System
+Pregnancy Notification application for rural areas
